@@ -1,0 +1,153 @@
+[{
+	"name": "Kuala Lumpur, Malaysia",
+	"description": "Gone there in a trip in South-East Asia. Stayed at the Novotel, it was near a lot of action.",
+	"date": "December 2011",
+	"location": {
+		"latitude": 3.139003,
+		"longitude": 101.686855
+	}
+}, {
+	"name": "Paris, France",
+	"description": "I went there in transit at least 5 times. But I took the time to visit Paris 2 time in 2008 and 2009",
+	"date": "May 2008 and march 2009",
+	"location": {
+		"latitude": 48.856614,
+		"longitude": 2.3522219
+	}
+}, {
+	"name": "Dakar, Sénégal",
+	"description": "",
+	"date": "",
+	"location": {
+		"latitude": 14.75,
+		"longitude": -17.3333333
+	}
+}, {
+	"name": "Ouagadougou, Burkina faso",
+	"description": "",
+	"date": "",
+	"location": {
+		"latitude": 12.364637,
+		"longitude": -1.5338639
+	}
+}, {
+	"name": "New York City, USA",
+	"description": "",
+	"date": "",
+	"location": {
+		"latitude": 40.7143528,
+		"longitude": -74.0059731
+	}
+}, {
+	"name": "Orlando, Florida, USA",
+	"description": "",
+	"date": "",
+	"location": {
+		"latitude": 28.5383355,
+		"longitude": -81.3792365
+	}
+}, {
+	"name": "Tampa, Florida, USA",
+	"description": "",
+	"date": "",
+	"location": {
+		"latitude": 27.950575,
+		"longitude": -82.4571776
+	}
+}, {
+	"name": "Austin, Texas, USA",
+	"description": "",
+	"date": "",
+	"location": {
+		"latitude": 30.267153,
+		"longitude": -97.7430608
+	}
+}, {
+	"name": "Niagara Falls, Canada",
+	"description": "",
+	"date": "",
+	"location": {
+		"latitude": 43.0903891,
+		"longitude": -79.0861076
+	}
+}, {
+	"name": "Toronto, Canada",
+	"description": "",
+	"date": "",
+	"location": {
+		"latitude": 43.653226,
+		"longitude": -79.3831843
+	}
+}, {
+	"name": "Shanghai, China",
+	"description": "",
+	"date": "",
+	"location": {
+		"latitude": 31.230393,
+		"longitude": 121.473704
+	}
+}, {
+	"name": "Phnom Penh, Cambodia",
+	"description": "",
+	"date": "",
+	"location": {
+		"latitude": 11.558831,
+		"longitude": 104.917445
+	}
+}, {
+	"name": "Siem Reap, Cambodia",
+	"description": "",
+	"date": "",
+	"location": {
+		"latitude": 13.3622222,
+		"longitude": 103.8597222
+	}
+}, {
+	"name": "Singapore",
+	"description": "",
+	"date": "",
+	"location": {
+		"latitude": 1.352083,
+		"longitude": 103.819836
+	}
+}, {
+	"name": "Koh Lipe, Thailand",
+	"description": "",
+	"date": "",
+	"location": {
+		"latitude": 6.4986111,
+		"longitude": 99.3083333
+	}
+}, {
+	"name": "Langkawi, Malaysia",
+	"description": "",
+	"date": "",
+	"location": {
+		"latitude": 6.3233,
+		"longitude": 99.8547239
+	}
+}, {
+	"name": "Penang, Malaysia",
+	"description": "",
+	"date": "",
+	"location": {
+		"latitude": 5.2632341,
+		"longitude": 100.4846227
+	}
+}, {
+	"name": "Bermuda",
+	"description": "",
+	"date": "",
+	"location": {
+		"latitude": 32.321384,
+		"longitude": -64.75737
+	}
+}, {
+	"name": "Cancun, Mexico",
+	"description": "",
+	"date": "",
+	"location": {
+		"latitude": 21.158964,
+		"longitude": -86.845937
+	}
+}]
